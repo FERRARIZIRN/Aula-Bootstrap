@@ -1,0 +1,47 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+.navbar {
+    background-color: gray;
+
+}
+
+.nav-brand {
+    margin-right: 10px;
+
+
+
+}
+
+.image-nav {
+    border-radius: 50%;
+}
+
+
+
+.quem-somos {
+    background-color: black;
+    color: white;
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros {
+    background-color: purple;
+    color: white;
+}
+
+.serviços {
+    background-color: black;
+    color: white;
+}
+
+.bg-footer {
+    background-color: gray;
+    color: black;
+}
